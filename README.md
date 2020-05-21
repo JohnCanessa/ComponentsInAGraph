@@ -9,7 +9,7 @@ using Java.
 
 To get my insights into the problem please visit the following post in my blog:
 
-T.B.D.
+https://www.johncanessa.com/2020/05/22/components-in-a-graph/
 
 Enjoy;
 
